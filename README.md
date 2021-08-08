@@ -2,7 +2,7 @@
 
 I'm a self-taught software developer from Germany. I started my own business to build plugins for [Maxon CINEMA 4D](https://www.maxon.net/en/) after school. Fast forward a few years and I am now employed as a Forward Deployed Engineer at Palantir Technologies. I thoroughly enjoy building software and strongly believe in open source principles, which is why I have always shared all of my non-commercial code on GitHub under an MIT license.
 
-Fun fact; I've learned Python programming on a jailbreaked iPod Touch 2nd Gen when I was 14. 🤷‍♂️
+Fun fact; I've learned Python programming on a jailbroken iPod Touch 2nd Gen when I was 14. 🤷‍♂️
 
 ---
 
