@@ -15,7 +15,8 @@ Fun fact; I've learned Python programming on a jailbroken iPod Touch 2nd Gen whe
 
 #### Orgs
 
-* [craftr-build](https://github.com/craftr-build) &ndash; A general purpose build system written in Python, backed by Ninja.
+* [craftr-build](https://github.com/craftr-build) &ndash; A general purpose build system written in Python, backed by Ninja. (unmaintained)
+* [nodepy](https://github.com/nodepy) &ndash; What NodeJS/NPM is for V8, but for Python. (unmaintaned)
 * [nrosenstein-c4d](https://github.com/nrosenstein-c4d) &ndash; Source code for all the Cinema 4D plugins I built back in the days.
 * [nrosenstein-forks](https://github.com/nrosenstein-forks) &ndash; This is where I fork repositories to for contributions.
 * [nrosenstein-old](https://github.com/nrosenstein-old) &ndash; Old projects that are totally unmaintained but could still be useful to some.
