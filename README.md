@@ -11,13 +11,14 @@ Fun fact; I've learned Python programming on a jailbroken iPod Touch 2nd Gen whe
 * [databind](https://github.com/NiklasRosenstein/databind) &ndash; Jackson-inspired Python library for typesafe data de-/serialization.
 * [git-profile](https://github.com/NiklasRosenstein/git-profile) &ndash; Easily switch between Git configuration profiles.
 * [nr-python](https://github.com/NiklasRosenstein/nr-python) &ndash; A suite of libraries with various intents and purposes all prefixed under the `nr` namespace package.
+* [powerline](https://github.com/NiklasRosenstein/powerline) &ndash; Python-based Bash powerline.
 * [pydoc-markdown](https://github.com/NiklasRosenstein/pydoc-markdown) &ndash; Generate Python API documentation in Markdown format (for direct use or with static site generators).
 * [python-github-bot-api](https://github.com/NiklasRosenstein/python-github-bot-api) &ndash; Layer on top of PyGithub to provide an easy API for implementing GitHub bots.
 * [shut](https://github.com/NiklasRosenstein/shut) &ndash; CLI to help manage Python package releases, setup files and mono repositories.
 
-#### Past projects
+#### Other projects
 
-A list of my favorite projects that have been discontinued for various reasons (for example due to discontinued upstream dependency).
+A list of my favorite projects, some of which have been discontinued for various reasons (for example due to discontinued upstream dependency).
 
 * [craftr](https://github.com/craftr-build/craftr) &ndash; A general purpose build system written in Python, backed by Ninja.
 * [flux-ci](https://github.com/nrosenstein-stuff/flux-ci) &ndash; Small CI server implemented in Python.
