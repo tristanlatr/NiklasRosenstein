@@ -9,15 +9,25 @@ Fun fact; I've learned Python programming on a jailbroken iPod Touch 2nd Gen whe
 #### Actively maintained projects
 
 * [databind](https://github.com/NiklasRosenstein/databind) &ndash; Jackson-inspired Python library for typesafe data de-/serialization.
+* [git-profile](https://github.com/NiklasRosenstein/git-profile) &ndash; Easily switch between Git configuration profiles.
+* [nr namespace packages](https://gitea.nkl.st/NiklasRosenstein/nr) &ndash; A suite of libraries with various intents and purposes all prefixed under the `nr` namespace package.
 * [pydoc-markdown](https://github.com/NiklasRosenstein/pydoc-markdown) &ndash; Generate Python API documentation in Markdown format (for direct use or with static site generators).
 * [shut](https://github.com/NiklasRosenstein/shut) &ndash; CLI to help manage Python package releases, setup files and mono repositories.
 
+#### Past projects
+
+A list of my favorite projects that have been discontinued for various reasons (for example due to discontinued upstream dependency).
+
+* [craftr](https://github.com/craftr-build/craftr) &ndash; A general purpose build system written in Python, backed by Ninja.
+* [flux-ci](https://github.com/nrosenstein-stuff/flux-ci) &ndash; Small CI server implemented in Python.
+* [nodepy](https://github.com/nodepy) &ndash; What NodeJS/NPM is for V8, but for Python.
+* [musicroom](https://github.com/nrosenstein-stuff/musicroom) &ndash; Join a room with friends and listen to the same music/YouTube video in sync.
+* [myo-python](https://github.com/nrosenstein-stuff/myo-python) &ndash; Popular ctypes-based wrapper to interface with the Thalmic Myo armband (discontinued)
+* [telegram-dachau_impf_bot](https://github.com/nrosenstein-stuff/telegram-dachau_impf_bot) &ndash; Telegram bot to notify people of the vaccination availability in Dachau, Germany. (inactive)
 
 #### Orgs
 
-* [craftr-build](https://github.com/craftr-build) &ndash; A general purpose build system written in Python, backed by Ninja. (unmaintained)
-* [nodepy](https://github.com/nodepy) &ndash; What NodeJS/NPM is for V8, but for Python. (unmaintaned)
 * [nrosenstein-c4d](https://github.com/nrosenstein-c4d) &ndash; Source code for all the Cinema 4D plugins I built back in the days.
 * [nrosenstein-forks](https://github.com/nrosenstein-forks) &ndash; This is where I fork repositories to for contributions.
 * [nrosenstein-old](https://github.com/nrosenstein-old) &ndash; Old projects that are totally unmaintained but could still be useful to some.
-* [nrosenstein-stuff](https://github.com/nrosenstein-stuff) &ndash; Projects that are work-in-progress and experimental, or cool but unfinished.
+* [nrosenstein-stuff](https://github.com/nrosenstein-stuff) &ndash; Projects that are work-in-progress and experimental, or cool but unfinished. New stuff gets added here first.
