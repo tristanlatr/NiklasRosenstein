@@ -12,6 +12,7 @@ Fun fact; I've learned Python programming on a jailbroken iPod Touch 2nd Gen whe
 * [git-profile](https://github.com/NiklasRosenstein/git-profile) &ndash; Easily switch between Git configuration profiles.
 * [nr namespace packages](https://gitea.nkl.st/NiklasRosenstein/nr) &ndash; A suite of libraries with various intents and purposes all prefixed under the `nr` namespace package.
 * [pydoc-markdown](https://github.com/NiklasRosenstein/pydoc-markdown) &ndash; Generate Python API documentation in Markdown format (for direct use or with static site generators).
+* [python-github-bot-api](https://github.com/NiklasRosenstein/python-github-bot-api) &ndash; Layer on top of PyGithub to provide an easy API for implementing GitHub bots.
 * [shut](https://github.com/NiklasRosenstein/shut) &ndash; CLI to help manage Python package releases, setup files and mono repositories.
 
 #### Past projects
