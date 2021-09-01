@@ -9,7 +9,7 @@ Fun fact; I've learned Python programming on a jailbroken iPod Touch 2nd Gen whe
 #### Actively maintained projects
 
 * [databind](https://github.com/NiklasRosenstein/databind) &ndash; Jackson-inspired Python library for typesafe data de-/serialization.
-* [docspec](https://github.com/NiklasRosenstein/databind) &ndash; Python library for representing and parsing API documentation (currently only parses Python). Backbone of Pydoc-Markdown.
+* [docspec](https://github.com/NiklasRosenstein/docspec) &ndash; Python library for representing and parsing API documentation (currently only parses Python). Backbone of Pydoc-Markdown.
 * [git-profile](https://github.com/NiklasRosenstein/git-profile) &ndash; Easily switch between Git configuration profiles.
 * [nr-python](https://github.com/NiklasRosenstein/nr-python) &ndash; A suite of libraries with various intents and purposes all prefixed under the `nr` namespace package.
 * [powerline](https://github.com/NiklasRosenstein/powerline) &ndash; Python-based Bash powerline.
